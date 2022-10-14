@@ -16,6 +16,6 @@
 - Thus, a series of decisions is made at each step of the alignment to find the pair of residues with the best score. 
 
 ### Three steps to make alignment
-[1] set up a matrix
-[2] score the matrix
-[3] identify the optimal alignment(s)
+1- set up a matrix
+2- score the matrix
+3- identify the optimal alignment(s)
